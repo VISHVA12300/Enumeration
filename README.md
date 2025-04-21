@@ -114,7 +114,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-![serverside](/img3/dns6.png)
+![serverside](/img3/dnf6.png)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
